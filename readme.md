@@ -1,10 +1,14 @@
 ----------------------------------
 *Titulo Projeto*  SERVICE CONTROL 
 ----------------------------------
-🙁 _*Problema:* Controle de Status de Manutenção 
-🙂 _*Nicho:* Oficina Mecânica / Centro Automotivos 
+🙁 _*Problema:* Controle de Status de Manutenção
+
+🙂 _*Nicho:* Oficina Mecânica / Centro Automotivos
+
 🎁 _*Proposta de Valor:* Organizar e Agilizar o Gerenciamento dos Status das Manutenções
+
 🧑‍💻👩‍💻 _*Equipe:* Claudio Dalla Valle / Tiago Marcelo Dalbosco / Evandro Teixeira dos Santos Filho
+
 🛠️ _*Recursos/Tecnologias Utilizados:* 
 -------------------
 💡 *PMI I*
