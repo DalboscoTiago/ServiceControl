@@ -14,8 +14,11 @@
 💡 *PMI I*
 
 🔗 _*url github:*_
+
 🛬 _*url landpage:*_
+
 🤝 _*url Modelo Negócio (imagem):*_
+
 🗓️ _*url Product Backlog:*_
 -------------------
 📲 *PMI II*
