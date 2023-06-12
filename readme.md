@@ -17,7 +17,7 @@
 https://github.com/datasis/servicecontrol/tree/main
 
 🛬 _*url landpage:*_
-
+https://datasis.github.io/servicecontrol/
 🤝 _*url Modelo Negócio (imagem):*_
 
 🗓️ _*url Product Backlog:*_
