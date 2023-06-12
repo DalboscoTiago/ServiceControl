@@ -14,7 +14,7 @@
 💡 *PMI I*
 
 🔗 _*url github:*_
-https://developer.mozilla.org/en-US/docs/Web/HTML
+https://github.com/datasis/servicecontrol/tree/main
 
 🛬 _*url landpage:*_
 
