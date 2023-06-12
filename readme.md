@@ -5,7 +5,7 @@
 
 🙂 _*Nicho:* Oficina Mecânica / Centro Automotivos
 
-🎁 _*Proposta de Valor:* Organizar e Agilizar o Gerenciamento dos Status das Manutenções
+🎁 _*Proposta de Valor:* Organizar, Agilizar, e gerar informação em tempo real do estado em que se encontra "Status" das veiculos em Manutenção e qual o tecnico responsavel pelo veiculo dentro de uma oficina de reparação de veiculos automotores.
 
 🧑‍💻👩‍💻 _*Equipe:* Claudio Dalla Valle / Tiago Marcelo Dalbosco / Evandro Teixeira dos Santos Filho
 
