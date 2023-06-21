@@ -1,11 +1,11 @@
 ----------------------------------
 *Titulo Projeto*  SERVICE CONTROL 
 ----------------------------------
-🙁 _*Problema:* Controle de Status de Manutenção
+🙁 _*Problema:* Atrasos recorrentes na entrega e descumprimento de prazos acordados com clientes, resultando na perda de confiança e prejuízos financeiros devido ao retrabalho, gerando desorganização na gestão dos veículos em manutenção sobrecarrega os colaboradores, aumentando as reclamações e insatisfação dos clientes, afetando a reputação da oficina e a perda de oportunidades de venda de serviços adicionais. 
 
-🙂 _*Nicho:* Oficina Mecânica / Centro Automotivos
+🙂 _*Nicho:* Oficinas Mecânicas / Centros Automotivos
 
-🎁 _*Proposta de Valor:* Organizar, Agilizar, e gerar informação em tempo real do estado em que se encontra "Status" das veiculos em Manutenção e qual o tecnico responsavel pelo veiculo dentro de uma oficina de reparação de veiculos automotores.
+🎁 _*Proposta de Valor:* Gestão eficiente da manutenção dos veiculos, com monitoramento em tempo real do status do serviço e atribuição de técnico responsável pelo reparo, garantindo agilidade e transparência no atendimento ao cliente.
 
 🧑‍💻👩‍💻 _*Equipe:* Claudio Dalla Valle / Tiago Marcelo Dalbosco / Evandro Teixeira dos Santos Filho
 
