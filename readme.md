@@ -26,7 +26,12 @@ https://datasis.github.io/servicecontrol/
 📲 *PMI II*
 
 ⌨️ _*url Protótipo (Figma): [Protótipo Funcional do Projeto em Figma](https://www.figma.com/file/ukR9KyQj4gq1BheZmXX859/Service-control---sistema-de-gerenciamento-para-mec%C3%A2nicas?type=design&node-id=0%3A1&mode=design&t=bWENT42TmUU6VDDf-1)
+
 📝 _*url Modelagem Sistema: https://mm.tt/app/map/2910348707?t=zCFQBDlpEt
+
+🖥️ _*url Model Business Canvas do Projeto: https://www.figma.com/file/S7ZDTaoXfNrscdyTt0GXwZ/Business-Model-Canvas-(Community)?type=design&node-id=2%3A3&mode=design&t=c0L7DCJXmw2Dq9Li-1
+
+
 -------------------
 💻 *PMI III*
 
