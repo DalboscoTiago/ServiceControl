@@ -31,9 +31,9 @@ https://datasis.github.io/servicecontrol/
 
 🖥️ _*url Model Business Canvas do Projeto: https://www.figma.com/file/S7ZDTaoXfNrscdyTt0GXwZ/Business-Model-Canvas-(Community)?type=design&node-id=2%3A3&mode=design&t=c0L7DCJXmw2Dq9Li-1
 
-🗓️ _*url Diagramas de Use-Case:*_
+🗓️ _*url Diagramas de Use-Case: https://github.com/datasis/servicecontrol/blob/2241e517525b1807429f93ca5671c570457a1e6d/docs/Diagrama%20UseCase%20-%20Service%20Control.pdf
 
-🗓️ _*url Diagramas de Classe: docs/Diagrama Classe - Service Control.pdf
+🗓️ _*url Diagramas de Classe:https://github.com/datasis/servicecontrol/blob/67859943c5b6ae739e07eb4c3e8d7cf8d43c1fe5/docs/Diagrama%20Classe%20-%20Service%20Control.pdf
 
 -------------------
 💻 *PMI III*
