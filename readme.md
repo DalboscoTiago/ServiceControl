@@ -33,7 +33,8 @@ https://datasis.github.io/servicecontrol/
 
 🗓️ _*url Diagramas de Use-Case:*_
 
-🗓️ _*url Diagramas de Classe:*_
+🗓️ _*url Diagramas de Classe: docs/Diagrama Classe - Service Control.pdf
+
 -------------------
 💻 *PMI III*
 
